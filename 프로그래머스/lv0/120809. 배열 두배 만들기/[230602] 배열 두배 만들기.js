@@ -7,3 +7,11 @@ function solution(numbers) {
     
     return answer;
 }
+
+//다른 사람 풀이
+
+function solution(numbers) {
+    return numbers.reduce((a, b) => [...a, b * 2], []);
+}
+
+//reduce() 사용법 익히기 
