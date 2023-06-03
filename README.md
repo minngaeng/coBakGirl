@@ -1,2 +1,3 @@
 # Daily-Programmers
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+[230602] 프로그래머스 약 2 주차 for 문이 무서워지지 않았다
+[230603] reduce() 공부 중 .. 너무 어려워 ㅜ ㅜ
