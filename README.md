@@ -5,3 +5,4 @@
 <br />
 
 [230603] reduce() 공부 중 .. 너무 어려워 ㅜ ㅜ
+https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C
