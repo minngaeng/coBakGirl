@@ -6,3 +6,6 @@
 
 [230603] reduce() 공부 중 .. 너무 어려워 ㅜ ㅜ
 https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C
+
+<br /> 
+Math.pow() 에 대해 아라보자 <링크:>
