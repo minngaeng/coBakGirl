@@ -8,4 +8,4 @@
 https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C
 
 <br /> 
-[230610] Math.pow() 에 대해 아라보자 <a src='https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C'>
+[230610] Math.pow() 에 대해 아라보자 https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C
