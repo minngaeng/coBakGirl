@@ -17,7 +17,7 @@
 
 
 # 🫵 번외
-### 언젠간 이해해 주겠어 SERIES 01 <a href='https://velog.io/@minngaeng/230612-%EC%BD%94%EB%B0%95%EA%B1%B8'> 아라보자 </a> 참고
+### 언젠간 이해해 주겠어 SERIES 01 <a href='https://velog.io/@minngaeng/230612-%EC%BD%94%EB%B0%95%EA%B1%B8'> 아라갈것이다 </a> 참고
 ```javascript
 function solution(num_list) {
     var answer = [0,0];
