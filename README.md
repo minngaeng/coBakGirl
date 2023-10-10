@@ -4,11 +4,11 @@
 
 <br />
 
-[230603] reduce() 공부 중 .. 너무 어려워 ㅜ ㅜ <a href='https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C'>아직도 아라가는 중 ..</a>
+[230603] reduce() 공부 중 .. 너무 어려워 ㅜ ㅜ <a href='https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C'>아직도 아라가는 중 ..</a> => 알아버림 막 씀 
 
 <br /> 
 [230610] Math.pow() 에 대해 <a href='https://velog.io/@minngaeng/%EC%BD%94%ED%85%8C'> 아라보자 </a>
-[230612] filter() 에 대해 <a href='https://velog.io/@minngaeng/230612-%EC%BD%94%EB%B0%95%EA%B1%B8'> 아라보자 </a>
+[230612] filter() 에 대해 <a href='https://velog.io/@minngaeng/230612-%EC%BD%94%EB%B0%95%EA%B1%B8'> 아라보자 </a> => 알아버림
 <hr>
 
 
