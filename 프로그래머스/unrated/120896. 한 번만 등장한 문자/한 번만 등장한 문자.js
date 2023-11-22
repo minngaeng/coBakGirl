@@ -1,7 +1,4 @@
 function solution(s) {
-    var answer = '';
-    return answer;
-}function solution(s) {
   let newArray = s.split('')
   let result = {}
   let newArray1=[]
